@@ -17,7 +17,7 @@ of users through the produced mobile application, making the usefulness of gener
 
 [Link to Paper1](https://link.springer.com/article/10.1007/s00779-020-01481-5)
 
-# 1. Intention Recognition and Communication for Human-Robot Collaboration
+# 2. Intention Recognition and Communication for Human-Robot Collaboration
 **Authors: Hadi Banaee, Franziska Klugl, Fjolle Novakazi, and Stephanine Lowry**   
 ## **Abstract**
 Human-robot collaboration follows rigit processes, to ensure safe interactions. In Case, of deviations from predetermined tasks, typically, processers come to a halt. This position paper proposes a conceptual framework for intention recognition and communication, enabling a higher granularity for understanding intentions to facilitate more efficient and safe human-robot collaboration, especially in events of deviations from expected behavior. 
