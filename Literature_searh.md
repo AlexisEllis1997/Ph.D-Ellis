@@ -39,7 +39,7 @@ This article dives into the different aspects of the communication design betwee
 ## **Abstract**
 The unification of statistical (data-driven) and symbolic (knowledge-driven) methods is widely recognized as one of the key challenges of modern AI. Recent years have seen a large number of publications on such hybrid neuro-symbolic AI systems. That rapidly growing literature is highly diverse, mostly empirical, and is lacking a unifying view of the large variety of these hybrid systems. In this paper, we analyze a large body of recent literature and we propose a set of modular design patterns for such hybrid, neuro-symbolic systems. We are able to describe the architecture of a very large number of hybrid systems by composing only a small set of elementary patterns as building blocks. The main contributions of this paper are: 1) a taxonomically organized vocabulary to describe both processes and data structures used in hybrid systems; 2) a set of 15+ design patterns for hybrid AI systems organized in a set of elementary patterns and a set of compositional patterns; 3) an application of these design patterns in two realistic use-cases for hybrid AI systems. Our patterns reveal similarities between systems that were not recognized until now. Finally, our design patterns extend and refine Kautz’s earlier attempt at categorizing neuro-symbolic architectures.
 
-[Link to Paper](file:///C:/Users/ellis/Zotero/storage/E9UGR2R7/s10489-021-02394-3.html)
+[Link to Paper](https://link.springer.com/article/10.1007/s10489-021-02394-3)
 
 
 
