@@ -23,7 +23,13 @@ of users through the produced mobile application, making the usefulness of gener
 Human-robot collaboration follows rigit processes, to ensure safe interactions. In Case, of deviations from predetermined tasks, typically, processers come to a halt. This position paper proposes a conceptual framework for intention recognition and communication, enabling a higher granularity for understanding intentions to facilitate more efficient and safe human-robot collaboration, especially in events of deviations from expected behavior. 
 
  [Link to Paper](https://drive.google.com/file/d/1MQMKhOqrFc0SAPWzoDgs-1FqkAnQBrxJ/view?usp=sharing)
+ 
+# 3. Communication in Human-Robot Interaction
+**Authors: Andrea Bonarini**   
+## **Abstract**
+This article dives into the different aspects of the communication design between humans and robots. Literature reviews the multi-facilitated interactions that developers and designers must consider when developing a communication aspect for robots. This would be a really good resource for baseline research, providing the reader with ideas on where they should focus. 
 
+[Link to Paper](https://link.springer.com/article/10.1007/s43154-020-00026-1)
 
 
 
