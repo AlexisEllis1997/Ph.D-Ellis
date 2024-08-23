@@ -41,5 +41,11 @@ The unification of statistical (data-driven) and symbolic (knowledge-driven) met
 
 [Link to Paper](https://link.springer.com/article/10.1007/s10489-021-02394-3)
 
+# 5. Human Factors Prinicples Underlying Glyph Design: A review of the Literature and an Agenda for Future Research
+**Authors: Navaneethan Siva, Alex Chaparro, and Evan Palmer**   
+## **Abstract**
+Glyphs are graphical icons that depict multivariate data and are used by a number of disparate fields. Their designs are varied, reflecting both the diversity of applications and the absence of design standards. In the absence of guidelines, glyph designers have relied on their intuition and expert opinion to develop a diverse collection of idiosyncratic techniques for representing complex data sets. Importantly, it is not clear whether glyph design schemes are in any way optimal for efficient perceptual interpretation and usage. We note several findings in the perception and cognition literature that may serve as an initial basis for guidelines, we discuss how they might be used and the importance of doing so. Additionally, the dynamic updating of information in glyphs is a new trend that makes this kind of optimization necessary now more than has been in the past.
 
+[Link to Paper](https://journals.sagepub.com/doi/abs/10.1177/1071181312561332)
+[Annotated Paper](https://drive.google.com/file/d/1FDVB9VLrO4bGE1vY5Wv3TfnL80vaAisw/view?usp=sharing)
 
